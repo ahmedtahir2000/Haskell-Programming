@@ -1,27 +1,4 @@
--- CS 300 Exam 1 on 21 Feb 2021 from 11am to 11pm
 
--- Before proceeding, press Alt-Z in Visual Studio Code so lines are wrapped
-
--- HONOR CODE:  I have taken the exam completely alone.  I have not consulted with any other person regarding the exam or any material from the course for the duration of the exam.  Except the six resources listed below, I have not consulted any other resource including searching the internet, accessing shared documents, or accessing any prior code I had.  I have reported any violation of the honor code that I knew and will report any that I may become aware of.  I understand that academic misconduct can result in disciplinary action.  
-
--- 
-
--- Write your full name and roll number to accept the honor code. (REQUIRED)
--- Ahmed Tahir Shekhani - 2023-10-0197
-
--- INSTRUCTIONS
-
--- * A textual description is REQUIRED with each part about how you solved it.
--- * You may only email the instructor about the exam (junaid.siddiqui@lums.edu.pk).  TAs will not be available.
--- * You can make any number of helper functions to solve your problem.  Most parts come with detailed hints and suggested helper functions but you are not required to follow them.  However, the provided main functions must work without any changes.
--- * You can work on the exam till Saturday 20 Feb 11 pm.  Submit on LMS.  Remember that internet outage is not a valid reason for extension since the prescribed setup works completely offline.
--- * The following six resources are allowed during the exam:
---      * Haskell Programming from first principles (http://haskellbook.com/)
---      * Learn You a Haskell for Great Good! (http://learnyouahaskell.com/chapters)
---      * Happy Learn Haskell Tutorial (http://www.happylearnhaskelltutorial.com/contents.html)
---      * Haskell (https://en.wikibooks.org/wiki/Haskell)
---      * Hoogle (https://hoogle.haskell.org/)
---      * The eight lecture summary emails sent from the instructor
 
 import Data.List
 import Data.Char
